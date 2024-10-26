@@ -1,0 +1,45 @@
+digraph G {
+        node [shape=plaintext]
+        tabla [label=<
+            <table border="1" cellborder="2" cellspacing="0" cellpadding="5" bgcolor="lightgray">
+                <tr>
+                    <td colspan="2" bgcolor="black" fontcolor="white">
+                        <b><font color="white">REPORTE MBR</font></b>
+                    </td>
+                </tr>
+                <tr><td><b>MBR Tamaño</b></td><td>5242880 bytes</td></tr>
+                <tr><td><b>MBR Fecha de Creación</b></td><td>2024-09-20 00:32:32 -0600 CST</td></tr>
+                <tr><td><b>MBR Disk Signature</b></td><td>1478495743</td></tr>
+            
+				<tr><td colspan="2" bgcolor="gray" fontcolor="white"><b><font color="white">PARTICIÓN 1</font></b></td></tr>
+				<tr><td><b>Estado</b></td><td>0</td></tr>
+				<tr><td><b>Tipo</b></td><td>P</td></tr>
+				<tr><td><b>Ajuste</b></td><td>B</td></tr>
+				<tr><td><b>Inicio</b></td><td>153</td></tr>
+				<tr><td><b>Tamaño</b></td><td>1048576 bytes</td></tr>
+				<tr><td><b>Nombre</b></td><td>Particion1</td></tr>
+			
+				<tr><td colspan="2" bgcolor="gray" fontcolor="white"><b><font color="white">PARTICIÓN 2</font></b></td></tr>
+				<tr><td><b>Estado</b></td><td>9</td></tr>
+				<tr><td><b>Tipo</b></td><td>0</td></tr>
+				<tr><td><b>Ajuste</b></td><td>0</td></tr>
+				<tr><td><b>Inicio</b></td><td>-1</td></tr>
+				<tr><td><b>Tamaño</b></td><td>-1 bytes</td></tr>
+				<tr><td><b>Nombre</b></td><td>0</td></tr>
+			
+				<tr><td colspan="2" bgcolor="gray" fontcolor="white"><b><font color="white">PARTICIÓN 3</font></b></td></tr>
+				<tr><td><b>Estado</b></td><td>9</td></tr>
+				<tr><td><b>Tipo</b></td><td>0</td></tr>
+				<tr><td><b>Ajuste</b></td><td>0</td></tr>
+				<tr><td><b>Inicio</b></td><td>-1</td></tr>
+				<tr><td><b>Tamaño</b></td><td>-1 bytes</td></tr>
+				<tr><td><b>Nombre</b></td><td>0</td></tr>
+			
+				<tr><td colspan="2" bgcolor="gray" fontcolor="white"><b><font color="white">PARTICIÓN 4</font></b></td></tr>
+				<tr><td><b>Estado</b></td><td>9</td></tr>
+				<tr><td><b>Tipo</b></td><td>0</td></tr>
+				<tr><td><b>Ajuste</b></td><td>0</td></tr>
+				<tr><td><b>Inicio</b></td><td>-1</td></tr>
+				<tr><td><b>Tamaño</b></td><td>-1 bytes</td></tr>
+				<tr><td><b>Nombre</b></td><td>0</td></tr>
+			</table>>] }
